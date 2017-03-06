@@ -56,3 +56,7 @@ docs/_build/
 
 # PyBuilder
 target/
+
+image/Website-1\.pdf
+
+image/_DS_Store
